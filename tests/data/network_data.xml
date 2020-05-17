@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<network_data>
+    <MAC_Add>E0-02-02-02-16-90</MAC_Add>
+    <IP_Add>192.168.1.22</IP_Add>
+    <Subnet_Mask>255.255.255.0</Subnet_Mask>
+    <Gateway>192.168.1.1</Gateway>
+    <DHCP_Server>192.168.1.1</DHCP_Server>
+    <DNS_Server_1>192.168.1.1</DNS_Server_1>
+    <DNS_Server_2>0.0.0.0</DNS_Server_2>
+    <Host_Server>54.207.58.243</Host_Server>
+    <Send_Num>118</Send_Num>
+    <Receive_Num>118</Receive_Num>
+    <Ping_Gateway_Time_1>.</Ping_Gateway_Time_1>
+    <Ping_Gateway_Time_2>.</Ping_Gateway_Time_2>
+    <Ping_Gateway_Time_3>.</Ping_Gateway_Time_3>
+    <Ping_Gateway_Time_4>.</Ping_Gateway_Time_4>
+    <Ping_Gateway_Time_5>.</Ping_Gateway_Time_5>
+    <Ping_Host_Time_1>.</Ping_Host_Time_1>
+    <Ping_Host_Time_2>.</Ping_Host_Time_2>
+    <Ping_Host_Time_3>.</Ping_Host_Time_3>
+    <Ping_Host_Time_4>.</Ping_Host_Time_4>
+    <Ping_Host_Time_5>.</Ping_Host_Time_5>
+    <Login_server>.</Login_server>
+</network_data>

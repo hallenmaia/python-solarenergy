@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<equipment_data>
+    <Model>SE-TL2K</Model>
+    <Max_DC_POWER>2300</Max_DC_POWER>
+    <Max_DC_Volt>480</Max_DC_Volt>
+    <DC_Current_String>&amp;nbsp&amp;nbspMax.DC Current Input</DC_Current_String>
+    <DC_Current_Content>12A</DC_Current_Content>
+    <DC_Conn_Sets>1</DC_Conn_Sets>
+    <Num_MPPT>1</Num_MPPT>
+    <Rated_AC_Power>2000</Rated_AC_Power>
+    <Rated_AC_Current>8.7</Rated_AC_Current>
+    <Power_Factor>&gt;0.99(full load)</Power_Factor>
+    <Consum_Night>&lt;0.2</Consum_Night>
+    <Max_Eff>97.4%</Max_Eff>
+    <Euro_Eff>96.7%</Euro_Eff>
+    <Grid_comp>     BRAZIL     </Grid_comp>
+    <MFMW>V1.23</MFMW>
+    <SFMW>V1.23</SFMW>
+    <DFMW>EV1.61.9</DFMW>
+    <SN>12321G1562BR00536</SN>
+    <Product_Code>SU02KSTL1BR6ED2103</Product_Code>
+</equipment_data>
